@@ -1,0 +1,52 @@
+[
+  {
+    "id": "TICKET-001",
+    "subject": "Cannot access account after password reset",
+    "body": "I tried to reset my password but now I cannot log in. It says invalid credentials. Please help, this is blocking access to my dashboard."
+  },
+  {
+    "id": "TICKET-002",
+    "subject": "Billing: unexpected charge on invoice",
+    "body": "I was charged twice this month. The invoice shows an extra fee labeled 'service surcharge'. Please refund and explain."
+  },
+  {
+    "id": "TICKET-003",
+    "subject": "Feature request: export data in CSV",
+    "body": "Our team needs a CSV export of reports. Currently only PDF is available. Please add CSV export or an API endpoint."
+  },
+  {
+    "id": "TICKET-004",
+    "subject": "App crashes when uploading image",
+    "body": "When I upload an image to the profile page, the app crashes with a 500 error. Reproducible every time."
+  },
+  {
+    "id": "TICKET-005",
+    "subject": "Request to change billing contact information",
+    "body": "Please update our billing contact email to billing@example.com and send future invoices there."
+  },
+  {
+    "id": "TICKET-006",
+    "subject": "Question about pricing tiers",
+    "body": "What's the difference between Pro and Enterprise? We need SSO and higher limits."
+  },
+  {
+    "id": "TICKET-007",
+    "subject": "Slow performance on reports page",
+    "body": "The reports page takes over 30 seconds to load for large datasets. Can you investigate performance?"
+  },
+  {
+    "id": "TICKET-008",
+    "subject": "Unable to reset 2FA",
+    "body": "I lost access to my 2FA app and cannot reset it. Need account recovery assistance."
+  },
+  {
+    "id": "TICKET-009",
+    "subject": "Integration failing with API 401",
+    "body": "Our integration started getting 401 responses after last deploy. Tokens appear valid. Please help troubleshoot."
+  },
+  {
+    "id": "TICKET-010",
+    "subject": "Question: how to add multiple team members",
+    "body": "I want to invite 10 team members at once. Is there a bulk invite option?"
+  }
+]
